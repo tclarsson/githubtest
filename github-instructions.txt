@@ -1,5 +1,7 @@
 new:
 initialize new project
 publish new project to github
+(update files)
+
 
 clone project
