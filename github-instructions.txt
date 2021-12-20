@@ -1,0 +1,5 @@
+new:
+initialize new project
+publish new project to github
+
+clone project
