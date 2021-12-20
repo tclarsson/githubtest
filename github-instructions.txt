@@ -3,6 +3,6 @@ initialize new project
 publish new project to github
 (update files)
 commit on local master
-sync = push 1 commits to origin/master
+sync = push <n> commits to origin/master
 
 clone project
